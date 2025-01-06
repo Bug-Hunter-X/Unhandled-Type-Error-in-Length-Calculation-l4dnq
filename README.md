@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript error: attempting to access the 'length' property of a variable without checking its type.  The `bug.js` file contains the erroneous code.  The `bugSolution.js` file provides a corrected version with improved type handling.
